@@ -1,6 +1,7 @@
 # Ex. No.   - PROTOTYPE PART MODEL DESIGN IN 3D PRINTER
 
-### DATE: 
+### DATE: 25/04/24
+
 ## AIM: 
 ### To prototype the given part model design in 3D Printer.
 
@@ -47,8 +48,12 @@
 
 ## Output:
 
-### Name:
-### Register Number:
+![exp3](https://github.com/Mohammed-Saajid/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/141727149/1a064c33-4958-4d4f-b9a0-268606b8fd9e)
+
+
+### Name: MOHAMMED SAAJID S
+
+### Register Number: 212223240093
 
 ## RESULT:
 ###   Thus a prototype of the given part model is developed using 3D Printer.
